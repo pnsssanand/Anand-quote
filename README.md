@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Quote Flow Builder is a web application for creating beautiful quote designs that can be easily shared on social media or used for various printing purposes. The application offers multiple customization options for fonts, colors, and layouts.
+Quote Flow Builder is a web application for creating beautiful quote designs that can be easily shared on social media or used for various printing purposes. The application offers multiple customization options for fonts, colors, and layouts. Developed by Anand Pinisetty.
 
 ## Features
 
@@ -51,3 +51,7 @@ npm run build
 ```
 
 You can then deploy the `dist` folder to your preferred hosting service.
+
+## Author
+
+Anand Pinisetty
